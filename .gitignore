@@ -8,4 +8,5 @@
 *.elf
 
 # build directory (from pulp's makefile)
-build/
+libraries/sensors/afe4400/build/
+libraries/sensors/afe4400/test_soft
