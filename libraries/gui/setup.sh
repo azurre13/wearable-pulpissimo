@@ -178,7 +178,7 @@ if [ "$ALL_OK" -eq 1 ]; then
     echo ""
     echo "  To build for Linux (SDL2 window):"
     echo "    make PLATFORM=linux"
-    echo "    ./gui_app"
+    echo "    ./build/gui_app"
     echo ""
     echo "  To run unit tests (no hardware):"
     echo "    cd tests && make"
